@@ -1,6 +1,6 @@
 ***Common Ports***
 
-![Common Ports](./Pasted image 20250129160123.png)
+![Common Ports](./ports.png)
 
 ---
 
