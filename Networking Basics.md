@@ -1,7 +1,6 @@
 
 ***Common Ports***
-	![[Pasted image 20250129160123.png]]
-
+	![alt text](Pasted image 20250129160123.png)
 
 ***Three way Handshake*** 
 	- Client Sends SYN packet.
